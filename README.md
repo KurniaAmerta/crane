@@ -3,7 +3,7 @@ The goal of this game is to recreate an arcade claw game or UFO catcher using th
 Game Engine:
 Unity 2020.3.20f1
 
-Gameplay, Source Code, ad Walkthrough:
+Gameplay, Source Code, and Walkthrough:
 https://drive.google.com/drive/folders/1L0pCddJHd8kPjD0v7mDM8EvRgO43Fixv?usp=share_link
 
 Walkthrough:
